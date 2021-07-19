@@ -1,0 +1,15 @@
+destinationEntity:
+  destinationName: 
+  destinationType: local
+schemaVersion: 0
+schemaType: Binding
+name: DiabetesRule
+description: 
+contentId: c0155556-c4e5-4446-a288-b7ed30e1ea5f
+sourceDataStore: 
+type: SQL
+status: In Development
+loadType: Full
+script: !script DiabetesRule.sql
+objectRelationships: []
+attributeValues: []

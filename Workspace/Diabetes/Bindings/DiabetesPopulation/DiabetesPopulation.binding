@@ -1,0 +1,15 @@
+destinationEntity:
+  destinationName: 
+  destinationType: local
+schemaVersion: 0
+schemaType: Binding
+name: DiabetesPopulation
+description: 
+contentId: be201604-effd-4d48-9c46-50e9ee2c5ed8
+sourceDataStore: 
+type: SQL
+status: In Development
+loadType: Full
+script: !script DiabetesPopulation.sql
+objectRelationships: []
+attributeValues: []
