@@ -1,15 +1,15 @@
-destinationEntity: DiabetesPopulation.entity
+destinationEntity:
   destinationName: 
   destinationType: local
 schemaVersion: 0
 schemaType: Binding
-name: DiabetesPopulation
+name: SummaryMetric
 description: 
-contentId: be201604-effd-4d48-9c46-50e9ee2c5ed8
+contentId: 47e58548-f5ab-4564-92ac-0eec229b22af
 sourceDataStore: 
 type: SQL
 status: In Development
 loadType: Full
-script: !script DiabetesPopulation.sql
+script: !script SummaryMetric.sql
 objectRelationships: []
 attributeValues: []
